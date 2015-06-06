@@ -1,0 +1,3 @@
+[submodule "Monolith"]
+	path = Monolith
+	url = https://github.com/johncoates/Monolith.git

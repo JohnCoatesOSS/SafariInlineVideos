@@ -1,0 +1,14 @@
+## Safari Inline Videos
+This tweak was requested on [/r/jailbreak](http://www.reddit.com/r/jailbreak/)
+
+## Features
+Safari now inlines HTML5 videos. Try it out at [http://i.imgur.com/OZz4qTS.gifv](http://i.imgur.com/OZz4qTS.gifv)
+Adds webkit-playsinline to video HTML tags as necessary.
+Note: Uses Monolith framework, which is currently in beta.
+
+## Download
+Get it on my [Delta Repo](http://getdelta.co/)
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/johncoates/SafariInlineVideos/master/screenshot.png)

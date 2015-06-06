@@ -1,0 +1,9 @@
+Package: com.monolith.safariInlineVideos
+Name: Safari Inline Videos
+Depends: com.johncoates.monolith, mobilesubstrate, firmware (>> 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Display HTML 5 videos inline.
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
