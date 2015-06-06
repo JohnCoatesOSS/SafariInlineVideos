@@ -2,8 +2,10 @@
 This tweak was requested on [/r/jailbreak](http://www.reddit.com/r/jailbreak/)
 
 ## Features
-Safari now inlines HTML5 videos. Try it out at [http://i.imgur.com/OZz4qTS.gifv](http://i.imgur.com/OZz4qTS.gifv)
+Safari now plays HTML5 videos inline, instead of full screen. Try it out at [http://i.imgur.com/OZz4qTS.gifv](http://i.imgur.com/OZz4qTS.gifv)
+
 Adds webkit-playsinline to video HTML tags as necessary.
+
 Note: Uses Monolith framework, which is currently in beta.
 
 ## Download
